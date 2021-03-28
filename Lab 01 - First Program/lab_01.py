@@ -8,4 +8,6 @@ arcade.start_render()
 
 arcade.draw_rectangle_filled(300,300,50,30,arcade.color.DEEP.JUNGLE_GREEN)
 
+arcade.finish_render()
+
 arcade.run()
